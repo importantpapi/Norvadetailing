@@ -1943,11 +1943,21 @@ textarea.form-control {
   }
   
   .hero-title {
-    font-size: 2.5rem;
+    font-size: 2.2rem;
   }
   
   .hero-subtitle {
     font-size: 1.05rem;
+  }
+
+  .hero-actions {
+    flex-direction: column;
+    width: 100%;
+    gap: 12px;
+  }
+
+  .hero-actions .swipe-btn {
+    width: 100%;
   }
   
   .pricing-grid {
