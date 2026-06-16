@@ -2013,6 +2013,12 @@ textarea.form-control {
     display: flex;
   }
   
+  .service-tabs-wrapper {
+    justify-content: flex-start;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
   body {
     padding-bottom: 70px;
   }
